@@ -1,5 +1,5 @@
-### Hi, I'm Simran Singh 👋
-
+## Hi, I'm Simran Singh 👋
+### IT 3rd year student, Maharaja Agrasen Institute of Technology
 - 🌱 I’m currently learning Computer vision and DS algo
 - 💬 Ask me about Python and C++
 - 📫 How to reach me: singh.simran9654@gmail.com
